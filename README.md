@@ -77,7 +77,11 @@ For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+DataWarehouse_SQL/
+│
+├── Data Analysis/                      # SQL code use for asking Business Questions about the DataWarehouse
+│    ├── Exploratory Data Analysis/     # BAsic Queries used for understand our DataWareHouse
+│    ├── Advanced Data Analysis/        # Advanced Queries used for answer Business Questions
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
