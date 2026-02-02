@@ -1,7 +1,7 @@
-# Data Warehouse Project with SQL
+# Data Warehouse Project & Data Analysis - SQL
 
 Welcome to the **Data Warehouse_SQL** repository! 🚀  
-In this project, created Baraa Kathib Salkini (www.youtube.com/@DataWithBaraa), I´m creating a DataWareHouse based on the Medallion Architecture (Bronze, Silver and Gold Layer). The main goal of this project is to demostrate my knowledge on this area by applying the Baraa's 30 hours course (https://www.youtube.com/watch?v=SSKVgrwhzus), where I learnt lot of useful things, tools and use cases for sql. Thank you for reading and I hope this inspires you to learn more about Data projects. Special thanks to Baraa Salkini, whose course was an amazing source of knowledge and I found truly educational.
+In this project, created Baraa Kathib Salkini (www.youtube.com/@DataWithBaraa), I´m creating a DataWareHouse based on the Medallion Architecture (Bronze, Silver and Gold Layer). The main goal of this project is to demostrate my knowledge on this area by applying the Baraa's 30 hours course (https://www.youtube.com/watch?v=SSKVgrwhzus), where I learnt lot of useful things, tools and use cases for sql.  In addition, it also includes Data Analysis (Exploratory and Advanced), which will be applied to the Data Warehouse. . Thank you for reading and I hope this inspires you to learn more about the Data World. Special thanks to Baraa Salkini, whose course was an amazing source of knowledge and I found truly educational.
 Despite of coding this entire project, materials like docs (pdf and pictures) were created by Baraa, you can find his name and Social media links in them.
 
 ---
@@ -22,7 +22,7 @@ This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+4. **Data Analytics**: Creating SQL-based reports for actionable insights.
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
@@ -100,6 +100,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
+
 ```
 ---
 
